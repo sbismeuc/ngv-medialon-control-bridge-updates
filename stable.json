@@ -4,5 +4,5 @@
   "releaseNotes": "# NGV Medialon Control Bridge 1.2.5\n\n- Adds signed one-touch updates: the setup app downloads a verified DMG and\n  opens the existing installer, which preserves applied site configuration.\n- Adds the verified Panasonic PT-RZ120 projector pack with `PJON`, `PJOFF`,\n  and `PJQUERY` aliases.\n- Includes the current NovaStar MCTRL300, MCTRL4K and VX16s support.\n\nThis is an internally ad-hoc-signed build. It is not Developer ID signed or\nnotarized for broad public distribution.",
   "dmgURL": "https://github.com/sbismeuc/ngv-medialon-control-bridge-updates/releases/download/v1.2.5/NGV-Medialon-Control-Bridge-1.2.5.dmg",
   "dmgSHA256": "5ea117706137269dc5ba167a31cad7ccd0ef1634f46761ad3889b87cbbdce78b",
-  "signature": "u7dT/hOU/7AhljBRjix1d6tJfat99GHRVbjHiU/YWjZhPjDg7Wywdo2HgglOoC4XK7i9Squ+1A/TPYOVX9mbAA=="
+  "signature": "4ukaqAzYCLDtMJGA+qVTNWLgCieFYF9pg/oRGgPKdN5jfrlyEBjNOaKL1ui7Z3HHqVc/oYQQ/+S4TjlOXLK2DA=="
 }
